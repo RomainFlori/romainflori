@@ -61,7 +61,7 @@ Capable de monter rapidement en compétences sur une nouvelle stack, de travaill
 ### Polyconseil — Développeur Backend TypeScript *(Stage · 6 mois)*
 > Projet d'envergure pour la **FDJ**, équipe 15+ développeurs backend
 
-- Création d'endpoints, communication API mobile ↔ back-office
+- Création d'endpoints, communication API web ↔ back-office
 - Conception d'un **système de contrôle d'homonymie** (anti-usurpation d'identité)
 - Tests unitaires **Jest**, méthode Agile SCRUM
 
@@ -87,15 +87,13 @@ Spécialisation développement Full Stack
 
 <div align="center">
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&hide=contribs,prs)
-
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=romainflori&hide_border=true&locale=fr)](https://github.com/romainflori)
 
 </div>
 
-> ⚠️ Remplace `TON_PSEUDO` par ton nom d'utilisateur GitHub dans les 3 liens ci-dessus.
+> 
 
 ---
 
@@ -104,7 +102,7 @@ Spécialisation développement Full Stack
 | | |
 |---|---|
 | 🔀 **Polyvalence** | Full Stack avéré — front, back, BDD — capable de switcher de stack rapidement |
-| 🌍 **International** | Anglais technique avec une équipe allemande au quotidien |
-| 🧩 **Profil métier** | Expérience dans des secteurs variés : médical, médias, jeux, agence web |
-| 🤝 **Autonomie** | Télétravail, gestion de tickets en autonomie, remote |
-| ✅ **Qualité** | Tests unitaires, documentation, gestion des bugs prod, maintenabilité |
+| 🌍 **International** | Expérience à New York - Anglais technique avec une équipe allemande au quotidien |
+| 🧩 **Profil métier** | Expérience dans des secteurs variés : médical, médias, agence web |
+| 🤝 **Autonomie** | Télétravail, gestion de tickets en autonomie |
+| ✅ **Qualité** | Documentation, gestion des bugs prod, maintenabilité |
