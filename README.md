@@ -87,9 +87,7 @@ Spécialisation développement Full Stack
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/romainflori)
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainflori&layout=compact&hide_border=true&langs_count=8)](https://github.com/romainflori)
 
