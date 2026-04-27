@@ -1,6 +1,6 @@
 <div align="center">
 
-# Développeur Full Stack — .NET · Node.js · Vue · React
+# Développeur Full Stack — .NET · Node.js · Vue · React · Next.js · Nuxt
 
 *BAC+5 Epitech · Polyvalent · Curieux · Orienté qualité*
 
@@ -36,6 +36,12 @@ Capable de monter rapidement en compétences sur une nouvelle stack, de travaill
 ---
 
 ## 💼 Expériences
+
+### Projet perso + freelance
+> Site web développé en Nuxt pour une clinique (avec backoffice et blog) : https://www.clinique-veterinaire-de-larc.fr/
+>
+> Portfolio (next.js) : https://landing-page-romain-xi.vercel.app/
+
 
 ### EDL — Développeur Full Stack .NET C# *(CDI/CDD · 9 mois)*
 > SaaS de gestion comptable et facturation pour radiologues (CCAM, multi-établissements)
