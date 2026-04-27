@@ -87,11 +87,11 @@ Spécialisation développement Full Stack
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romainflori&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)](https://github.com/TON_PSEUDO)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/romainflori)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainflori&layout=compact&hide_border=true&langs_count=8)](https://github.com/TON_PSEUDO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainflori&layout=compact&hide_border=true&langs_count=8)](https://github.com/romainflori)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=romainflori&hide_border=true&locale=fr)](https://github.com/TON_PSEUDO)
+[![GitHub Streak](https://streak-stats.demolab.com?user=romainflori&hide_border=true&locale=fr)](https://github.com/romainflori)
 
 </div>
 
