@@ -2,7 +2,7 @@
 
 # Développeur Full Stack — .NET · Node.js · Vue · React · Next.js · Nuxt
 
-*BAC+5 Epitech · Polyvalent · Curieux · Orienté qualité*
+*BAC+5 Epitech Paris*
 
 </div>
 
@@ -22,7 +22,7 @@ Capable de monter rapidement en compétences sur une nouvelle stack, de travaill
 `C# / .NET` `Node.js` `TypeScript` `PHP` `CakePHP`
 
 **Frontend**
-`Vue.js` `React.js` `JavaScript` `HTML / CSS`
+`Vue.js` `React.js` `JavaScript` `HTML / CSS` `TailwindCss / Bootstrap`
 
 **Base de données**
 `PostgreSQL` `SQL` — requêtes complexes, CTE, jointures, agrégations
@@ -37,10 +37,9 @@ Capable de monter rapidement en compétences sur une nouvelle stack, de travaill
 
 ## 💼 Expériences
 
-### Projet perso + freelance
-> Site web développé en Nuxt pour une clinique (avec backoffice et blog) : https://www.clinique-veterinaire-de-larc.fr/
->
-> Portfolio (next.js) : https://landing-page-romain-xi.vercel.app/
+### Projet perso + freelance (2026)
+- Site web développé en Nuxt pour une clinique (avec backoffice et blog) : https://www.clinique-veterinaire-de-larc.fr/
+- Portfolio (next.js) : https://landing-page-romain-xi.vercel.app/
 
 
 ### EDL — Développeur Full Stack .NET C# *(CDI/CDD · 9 mois)*
