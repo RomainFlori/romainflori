@@ -89,7 +89,7 @@ Spécialisation développement Full Stack
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&hide=contribs,prs)
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=romainflori&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=romainflori&hide_border=true&locale=fr)](https://github.com/romainflori)
 
